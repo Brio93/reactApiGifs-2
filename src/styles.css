@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: rgba(85, 85, 79, 0.795);
+}
+
+.App a {
+  display: flex;
+  flex-direction: column;
+}

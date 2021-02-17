@@ -1,0 +1,29 @@
+.Gifs {
+  border: 1px solid #eee;
+  border-radius: 6px;
+  display: flex;
+  margin: 15px;
+  padding: 20px;
+  width: 100%;
+  flex-direction: column;
+
+  text-decoration: none;
+}
+
+.title {
+  color: #fff;
+}
+
+/*Codigo eliminado 
+.pId {
+  font-size: 14px;
+  color: #fff;
+} */
+
+.Gifs img {
+  object-fit: contain;
+}
+
+i {
+  font-size: 80px;
+}
